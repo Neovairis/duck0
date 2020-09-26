@@ -4,6 +4,7 @@ Created on Fri Oct 19 10:16:29 2018
 
 @author: DELL
 """
+#鸭哥是个大傻子
 import matplotlib.pyplot as plt
 import numpy as np
 
